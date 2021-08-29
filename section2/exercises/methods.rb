@@ -4,27 +4,42 @@
 # `ruby section2/exercises/methods.rb`
 
 # Example: Write a method that when called will print your name:
-def print_name
-  p "Severus Snape"
+def print_name(name)
+  puts name + "!"
 end
 
-print_name
+print_name("B-Rad")
 
 # Write a method that takes a name as an argument and prints it:
 def print_name(name)
-  # YOUR CODE HERE
+  puts name + "!"
 end
 
-print_name("Albus Dumbledore")
+print_name("Cole Bradley")
 
-# Write a method that takes in 2 numbers as arguments and prints 
+
+
+# Write a method that takes in 2 numbers as arguments and prints
 # their sum. Then call your method three times with different arguments passed in:
-# YOUR CODE HERE
+def add(a, b)
+  puts "adding #{a} + #{b} to find my max age."
+a + b
+end
 
-# Write a method that takes in two strings as arguments and prints 
-# a concatenation of those two strings. Example: The arguments could be 
-# (man, woman) and the end result might output: "When Harry Met Sally".  
-# Then call your method three times with different arguments passed in. 
+age = add(100, 100)
+
+
+ puts "I am going to grow to be #{age} years old!"
+
+# Write a method that takes in two strings as arguments and prints
+# a concatenation of those two strings. Example: The arguments could be
+# (man, woman) and the end result might output: "When Harry Met Sally".
+# Then call your method three times with different arguments passed in.
+def born_sex(male, female)
+  puts " #{male} #{female}"
+end
+
+born_sex("I was born a man", "and born a women")
 
 
 #-------------------
@@ -38,4 +53,3 @@ print_name("Albus Dumbledore")
 # What did you name each parameter, and why?
 
 # EXPLAIN:
-
