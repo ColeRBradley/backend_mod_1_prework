@@ -28,8 +28,13 @@ Read/watch one or both of the following:
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 - What are two points from the article or video that either resonated with you, or were brand new to you?
+    1. I love the talk about not comparing to others. I think that is such a big down fall of mine that I really need to work on.  No one can be me and I cant be any one els.  Everyone works at their own pace and aslong as you get the info it shouldnt matter if that other person got the info faster.
+    2. I also love the mind set of when you run into a stuck spot that you may struggle with not to give up and say I cant do this I am not ment for this.  But to look at it as an obstocule to over come and start to develope a plan to get unstuck.  have some peace knowing that by getting over that stuck spot that you will grow and that you will only grow if you do not give up.
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+    1. I need alot of work in this catagory, I struggle with some tihngs in my life that very few understand and I have always set it as a limitation on what I can do in my life.  I look at others that dont suffer with my issues and compair my self to them.  They have a healthy mind and i do not, they make that look easy and I do not.  I am so pre wired to run on imidiate gratification that it is hard for me to live in a growth mind set and build change over time.
+    2. I feel that on some level I have a growth mind set that is subconcious, because I have achieved some pretty great tihings in my life under great odds against me.  You can say I have been forged in the fire.
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+    1. This has changed over the course of time and when my intrest change from one thing I spend alot of time on to another.  I have become knowledgeable about video games over the last 5 years and know the games that I play most offten inside and out.  I have also become knoweledgeable over the last 5 years in helping others recover from the disease of addiction.  I have helped many people find a new way of life and in the process have learned how to change my characture defects around and learn to change.
 
 ## Part B Arrays + Hashes
 
