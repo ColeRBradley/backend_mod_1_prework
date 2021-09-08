@@ -116,7 +116,8 @@ class SuperHero
   
   def gain_power
     @power_level = 100 + 100
-  end
+   end
+end
     
 # - Create 2 instances of your SuperHero class
 batman = SuperHero.new("batman", "wealthy", 30, "The Syntax Error", 100, 50)
