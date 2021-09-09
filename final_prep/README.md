@@ -32,7 +32,7 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
+<img width="1515" alt="Week One Mod1" src="https://user-images.githubusercontent.com/88908082/132749759-927c2acd-876b-46c1-acc8-12507bca750a.png">
 - `Add Week 2 Screenshot Here`
 - `Add Week 3 Screenshot Here`
 
